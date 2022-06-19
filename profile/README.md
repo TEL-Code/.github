@@ -2,7 +2,8 @@
 A place where developers and students teach, explore and learn coding.
 - eco-friendly
 - free (for now :wink:)
-- awesome
+- blazing fast
+- customizable
 ## We do:
 - tutoring (with flexible timings :grin:)
 - web services (pretty sick 🤙)

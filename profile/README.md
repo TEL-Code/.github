@@ -1,16 +1,9 @@
-# TELcode
-A place where developers and students teach, explore and learn coding.
-- eco-friendly
-- free (for now :wink:)
-- blazing fast
-- customizable
-## We do:
-- tutoring (with flexible timings :grin:)
-- web services (pretty sick 🤙)
-## how anyone can contribute:
-- prepare lesson notes
-- suggest things on my projects so that I can learn to teach the students
-## Available languages to learn:
-- Python
-- HTML, CSS and Javascript (web design)
+<span align='center'>
+<h1>TELCode</h1>
+<p>A place where developers and students teach, explore and learn coding.</p>
+<br>
+<h1>Your own pace</h1>
+<p>When you are free, your mood, what you are interested in learning, in any language, in 1 session.</p>
+</span>
+
 <!-- add badges showing the project count and student count -->

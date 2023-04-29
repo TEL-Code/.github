@@ -1,4 +1,3 @@
 <span align='center'>
-<h1>TELCode</h1>
-<p>We Teach, Build and invite others to join us :)</p>
+<img src="TELCode(1).png" alt="TELCode: Teaching, Exploring and Learning. As easy as a phone call">
 </span>

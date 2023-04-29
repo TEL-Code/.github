@@ -1,1 +1,1 @@
-![TELCode: Teaching, Exploring and Learning. As easy as a phone call](https://github.com/TEL-Code/.github/edit/main/profile/TELCode(1).png")
+![TELCode](https://github.com/TEL-Code/.github/TELCode.png)

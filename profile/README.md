@@ -1,3 +1,5 @@
 <span align='center'>
-<img src="TELCode(1).png" alt="TELCode: Teaching, Exploring and Learning. As easy as a phone call">
+
+![TELCode: Teaching, Exploring and Learning. As easy as a phone call](https://github.com/TEL-Code/.github/edit/main/profile/TELCode(1).png")
+
 </span>
